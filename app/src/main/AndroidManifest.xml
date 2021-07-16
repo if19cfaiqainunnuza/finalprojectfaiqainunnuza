@@ -16,6 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".HistoryActivity" />
+        <activity android:name=".KeywordActivity" />
+        <activity android:name=".EditActivity" />
     </application>
 
 </manifest>
