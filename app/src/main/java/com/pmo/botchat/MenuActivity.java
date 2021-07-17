@@ -47,7 +47,7 @@ public class MenuActivity extends AppCompatActivity {
         btn4.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MenuActivity.this, KeywordActivity.class));
+                startActivity(new Intent(MenuActivity.this, MainActivity.class));
                 finish();
             }
         });
