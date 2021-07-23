@@ -22,7 +22,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentLeft="true"
         android:ems="25"
-        android:hint="teks"
+        android:hint="teks1"
         android:inputType="textPassword"
         android:layout_alignParentEnd="true" />
 
